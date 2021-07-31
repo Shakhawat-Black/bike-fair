@@ -1,0 +1,13 @@
+.bg-header{
+    background-color: #264653;
+
+}
+.bg-btn-col{
+    background-color: #E76F51;
+    color: white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+span{
+    color: #E76F51;
+}
